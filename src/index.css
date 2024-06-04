@@ -1,0 +1,16 @@
+/* /* Add this to your CSS file */
+.landing-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* Center align horizontally */
+  padding: 0 20px;
+  /* Add padding to the left and right */
+}
+
+.book-preview {
+  max-width: 800px;
+  /* Limit the maximum width of the book preview */
+  text-align: center;
+  /* Center align all content within the book preview */
+}
